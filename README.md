@@ -18,6 +18,11 @@ Scheme Interpreter
         1
         (* n (fact (- n 1))))))
   ```
+  output:
+  ```
+  > (fact 5)
+  > 120
+  ```
 2. 斐波那契数列
   ```
     (define fib (lambda (n)
@@ -25,4 +30,9 @@ Scheme Interpreter
           ((= n 2) 1)
           (else (+ (fib (- n 1)) 
                    (fib (- n 2)))))))
+  ```
+  output:
+  ```
+  > (fib 10)
+  > 55
   ```
