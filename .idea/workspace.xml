@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="gua:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15010be0-a828-4939-b739-898a8cb66806" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/artifacts/gua_jar/gua.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/gua_jar/gua.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/wuz/gua/interpreter/GuaAstVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/wuz/gua/interpreter/GuaAstVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/wuz/gua/std/GuaStd$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/wuz/gua/std/GuaStd$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/wuz/gua/std/GuaStd$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/wuz/gua/std/GuaStd$17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/wuz/gua/std/GuaStd$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/wuz/gua/std/GuaStd$18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/wuz/gua/std/GuaStd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/wuz/gua/std/GuaStd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/wuz/gua/interpreter/GuaAstVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/wuz/gua/interpreter/GuaAstVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/wuz/gua/std/GuaStd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/wuz/gua/std/GuaStd.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gua" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gua" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gua" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gua" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gua" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gua" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/interpreter/GuaAstVisitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="153" column="70" selection-start-line="153" selection-start-column="70" selection-end-line="153" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#visitCondCondition#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitCondClauseOrder#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitCondClauseArrow#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitCaseCondition#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitElseClause#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitIfCondition#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitAndCondition#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitOrCondition#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitBeginSequence#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitLetBind#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitLetStarBind#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitLetRecBind#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitDoIteration#0;class#GuaAstVisitor#0" />
+                <element signature="e#6227#6788#1" />
+                <element signature="method#visitDelayEval#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitPairOrImproperList#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitAbbrevList#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitProperList#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitVector#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitMap#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitStringLiteral#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitCharacterLiteral#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitSymbolLiteral#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitNumberLiteral#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitBooleanLiteral#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitSetAssignment#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitVariable#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitDefineVariable#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitProcedureCall#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitLambdaFixedArguments#0;class#GuaAstVisitor#0" />
+                <element signature="method#visitDefineProcedure#0;class#GuaAstVisitor#0" />
+                <element signature="method#testExpr#0;class#GuaAstVisitor#0" />
+                <element signature="method#call#0;class#GuaAstVisitor#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>readCharacter</find>
+      <find>curren</find>
+      <find>abbre</find>
+      <find>LIST</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/exception/UndefineException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/exception/ProcedureCallException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/stdlib.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/exception/TypeException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/type/GCharacter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/type/GString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/type/GSymbol.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/type/GNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/helper/TypeConvert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/exception/InterpreterException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/exception/ArityExpection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/type/GBoolean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/type/GClosure.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/generate/GuaParserVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/generate/GuaParserBaseVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/generate/GuaLexer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/generate/GuaParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/type/GProcedure.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/interpreter/Environment.java" />
+        <option value="$PROJECT_DIR$/build.gradle.kts" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/type/GPromise.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/type/GList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/type/GuaType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/type/GuaObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/type/GMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/interpreter/GuaEvaluator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/type/GVector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/interpreter/GuaAstVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wuz/gua/std/GuaStd.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="87" />
+    <option name="y" value="107" />
+    <option name="width" value="1201" />
+    <option name="height" value="661" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gua" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554627087871" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.25195312" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/wuz/gua/generate" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wuz.gua.Main" />
+      <module name="wuz.gua.gua.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wuz.gua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15010be0-a828-4939-b739-898a8cb66806" name="Default Changelist" comment="" />
+      <created>1554329501723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554329501723</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-37" width="1366" height="805" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29135054" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24166666" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2728532" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49924126" visible="true" weight="0.31465518" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007587" side_tool="true" weight="0.13434903" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.329653" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32963988" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32928678" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Cargo" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.13125949" />
+      <window_info anchor="right" id="ASM" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/exception/UndefineException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/type/GCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/type/GNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <element signature="method#eqv#0;class#GNumber#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/helper/TypeConvert.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/exception/InterpreterException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/exception/ArityExpection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/generate/GuaParserVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/generate/GuaParserBaseVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/generate/GuaLexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/generate/GuaParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.0/e99c1ba402366ef771b67373eb58c45bfbb54a3a/antlr4-runtime-4.0-sources.jar!/org/antlr/v4/runtime/ANTLRInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/jdk1.8.0_151/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="144" column="19" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+          <folding>
+            <element signature="e#4242#4243#0" expanded="true" />
+            <element signature="e#4278#4279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/interpreter/Environment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/type/GSymbol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/type/GUndefine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/type/GVoid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/jdk1.8.0_151/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="99" column="15" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/ee60091f89de5a1b8ac8a175b59302c6936e1c75/jline-2.10.7-sources.jar!/scala/tools/jline/internal/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/ee60091f89de5a1b8ac8a175b59302c6936e1c75/jline-2.10.7-sources.jar!/scala/tools/jline/TerminalFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/ee60091f89de5a1b8ac8a175b59302c6936e1c75/jline-2.10.7-sources.jar!/scala/tools/jline/console/completer/NullCompleter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/ee60091f89de5a1b8ac8a175b59302c6936e1c75/jline-2.10.7-sources.jar!/scala/tools/jline/console/completer/Completer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/a5261e70728c1847639e2b47d953441d0b217bcb/jline-2.10.7.jar!/scala/tools/jline/keybindings.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-641" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/ee60091f89de5a1b8ac8a175b59302c6936e1c75/jline-2.10.7-sources.jar!/scala/tools/jline/AnsiWindowsTerminal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-381">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/ee60091f89de5a1b8ac8a175b59302c6936e1c75/jline-2.10.7-sources.jar!/scala/tools/jline/Terminal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/ee60091f89de5a1b8ac8a175b59302c6936e1c75/jline-2.10.7-sources.jar!/scala/tools/jline/TerminalSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="150" column="15" selection-start-line="150" selection-start-column="15" selection-end-line="150" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/ee60091f89de5a1b8ac8a175b59302c6936e1c75/jline-2.10.7-sources.jar!/scala/tools/jline/UnixTerminal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="124" column="25" selection-start-line="124" selection-start-column="25" selection-end-line="124" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/a5261e70728c1847639e2b47d953441d0b217bcb/jline-2.10.7.jar!/org/fusesource/jansi/AnsiConsole.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/a5261e70728c1847639e2b47d953441d0b217bcb/jline-2.10.7.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/ee60091f89de5a1b8ac8a175b59302c6936e1c75/jline-2.10.7-sources.jar!/scala/tools/jline/console/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1005">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/ee60091f89de5a1b8ac8a175b59302c6936e1c75/jline-2.10.7-sources.jar!/scala/tools/jline/console/history/MemoryHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="277" column="7" lean-forward="true" selection-start-line="277" selection-start-column="7" selection-end-line="277" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/ee60091f89de5a1b8ac8a175b59302c6936e1c75/jline-2.10.7-sources.jar!/scala/tools/jline/console/history/History.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="53" column="6" lean-forward="true" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/ee60091f89de5a1b8ac8a175b59302c6936e1c75/jline-2.10.7-sources.jar!/scala/tools/jline/console/ConsoleReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="1023" column="22" lean-forward="true" selection-start-line="1023" selection-start-column="22" selection-end-line="1023" selection-end-column="22" />
+          <folding>
+            <element signature="e#52049#52050#0" expanded="true" />
+            <element signature="e#52079#52080#0" expanded="true" />
+            <element signature="e#59852#59853#0" expanded="true" />
+            <element signature="e#59901#59902#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/type/GPromise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/type/GClosure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#eqv#0;class#GClosure#0" />
+            <element signature="e#1047#1048#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/type/GProcedure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-680">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/exception/TypeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/type/GuaType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="98" column="54" selection-start-line="98" selection-start-column="54" selection-end-line="98" selection-end-column="54" />
+          <folding>
+            <element signature="method#convertToBoolean#0;class#GuaType#0" />
+            <element signature="method#convertToCharacter#0;class#GuaType#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/type/GBoolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/type/GList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/type/GuaObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/interpreter/GuaEvaluator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="80" column="32" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#processFile#0;class#GuaEvaluator#0" />
+            <element signature="method#parseProgram#0;class#GuaEvaluator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/type/GMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/type/GVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grammar/GuaLexer.g4">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grammar/GuaParser.g4">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/std/GuaStd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="261" lean-forward="true" selection-start-line="261" selection-end-line="261" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#429:787" />
+            <element signature="class#824:1394" />
+            <element signature="class#1431:1789" />
+            <element signature="class#1826:2396" />
+            <element signature="class#2433:3144" />
+            <element signature="class#3181:3892" />
+            <element signature="class#3930:4643" />
+            <element signature="method#call#0;class#3930:4643" />
+            <element signature="class#4680:5391" />
+            <element signature="class#5429:6142" />
+            <element signature="class#6262:6840" />
+            <element signature="class#6881:7404" />
+            <element signature="class#7445:7911" />
+            <element signature="method#call#0;class#7445:7911" />
+            <element signature="class#7950:8676" />
+            <element signature="class#8715:9684" />
+            <element signature="class#9724:10610" />
+            <element signature="class#10650:10940" />
+            <element signature="method#call#0;class#10650:10940" />
+            <element signature="class#10981:11247" />
+            <element signature="class#11288:11978" />
+            <element signature="e#12036#12037#0" expanded="true" />
+            <element signature="e#12062#12063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wuz/gua/interpreter/GuaAstVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="153" column="70" selection-start-line="153" selection-start-column="70" selection-end-line="153" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#visitCondCondition#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitCondClauseOrder#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitCondClauseArrow#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitCaseCondition#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitElseClause#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitIfCondition#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitAndCondition#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitOrCondition#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitBeginSequence#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitLetBind#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitLetStarBind#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitLetRecBind#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitDoIteration#0;class#GuaAstVisitor#0" />
+            <element signature="e#6227#6788#1" />
+            <element signature="method#visitDelayEval#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitPairOrImproperList#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitAbbrevList#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitProperList#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitVector#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitMap#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitStringLiteral#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitCharacterLiteral#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitSymbolLiteral#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitNumberLiteral#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitBooleanLiteral#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitSetAssignment#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitVariable#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitDefineVariable#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitProcedureCall#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitLambdaFixedArguments#0;class#GuaAstVisitor#0" />
+            <element signature="method#visitDefineProcedure#0;class#GuaAstVisitor#0" />
+            <element signature="method#testExpr#0;class#GuaAstVisitor#0" />
+            <element signature="method#call#0;class#GuaAstVisitor#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>gua:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>wuz.gua.gua</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: org.abego.treelayout:org.abego.treelayout.core:1.0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gua:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gua_jar</output-path>
+    <root id="archive" name="gua.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="wuz.gua.gua.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fusesource.jansi/jansi/1.4/446ac2e3a8981914c0fe2affee351b3a3b47813/jansi-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/jline/2.10.7/a5261e70728c1847639e2b47d953441d0b217bcb/jline-2.10.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.0/2ddf21287c175a7f1d348745f3fbf43730faba3/antlr4-runtime-4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.1/e31e79cba7a5414cf18fa69f3f0a2cf9ee997b61/org.abego.treelayout.core-1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
