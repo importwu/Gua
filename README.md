@@ -1,5 +1,6 @@
 # Gua (Lisp Dialect)
-Scheme Interpreter
+Scheme Interpreter (支持部分[R5RS](https://docs.racket-lang.org/r5rs/r5rs-std/r5rs.html))
+推荐书籍[The Little Schemer](http://uternet.github.io/TLS/)
 ## 1. Built-in Datatypes
 1. Boolean
 2. Number
@@ -28,7 +29,14 @@ Scheme Interpreter
 ```
   git clone git@github.com:GuaIsPi/Gua.git
 ```
-
+2. Use Gua (Linux)
+```
+  > cd Gua/bin
+  > java -jar gua.jar
+  Welcome to Gua v0.0.1.
+  > (+ 1 2)
+  > 3
+```
 ## 4. Example
 1. 阶乘
   ```
