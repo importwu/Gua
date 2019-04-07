@@ -1,6 +1,6 @@
-# Gua
+# Gua (Lisp Dialect)
 Scheme Interpreter
-## Built-in Datatypes
+## 1. Built-in Datatypes
 1. Boolean
 2. Number
 3. Character(Unicode)
@@ -10,7 +10,26 @@ Scheme Interpreter
 7. Map
 8. Void and Undefine
 
-## Example
+## 2. Expression and Definition
+1. Variable
+2. Literal
+3. Conditon
+4. Local Bind
+5. Assignment
+6. Sequence
+7. Iteration
+8. Delay
+9. Lambda
+10. Procedure Call
+11. Definition
+
+## 3. Getting Started
+1. Installing Gua
+```
+  git clone git@github.com:GuaIsPi/Gua.git
+```
+
+## 4. Example
 1. 阶乘
   ```
   (define fact (lambda (n)
