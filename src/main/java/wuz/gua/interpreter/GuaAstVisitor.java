@@ -170,7 +170,7 @@ public class GuaAstVisitor extends GuaParserBaseVisitor<GuaObject> {
             envs.getFirst().putVariable(doBind.varname.getText(), visit(doBind.init));
         }
         for(;;) {
-            if(!testExpr(visit(ctx.test))) {
+            if(testExpr(visit(ctx.test))) {
                 GuaObject ret = GVoid.VOID;
                 for(GuaParser.ExpressionContext order: ctx.order) {
                     ret = visit(order);

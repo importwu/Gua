@@ -221,7 +221,7 @@ public class GuaStd {
                     if(list.isEmpty()) {
                         throw new InterpreterException("is a pair?");
                     }
-                    if(list.size() == 2) {
+                    if(list.size() == 2 && GuaType.isPair(GObject)) {
                         return list.getLast();
                     }
                     LinkedList<GuaObject> ret = new LinkedList<>(list);
@@ -264,7 +264,8 @@ public class GuaStd {
             @Override
             public GuaObject call(GuaAstVisitor visitor, List<GuaObject> formals) {
                 fixedArity(formals, 1);
-                return new GString(formals.get(0).toString());
+                System.out.print(new GString(formals.get(0).toString()));
+                return GVoid.VOID;
             }
         });
 
