@@ -92,6 +92,7 @@
 ```
 (define a 10)
 a  -->  10
+
 (define plus (lambda (a b) (+ a b)))
 (plus 1 2)  --> 3
 ```
@@ -105,10 +106,12 @@ a  -->  10
 3. Conditon
 ```
 (if #t 1 2)   -->  1
+
 (cond (> 1 2)
       (< 10 1)
       (else 3))  -->  3
 (and (= 2 2) (< 0 1))  --> #t
+
 (or (< 10 5) (> 3 2))  --> #t
 ```
 4. Local Bind
